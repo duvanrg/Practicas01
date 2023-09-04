@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj": {}
+    "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj": {
+    "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj",
+        "projectUniqueName": "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj",
         "projectName": "Practicas01",
-        "projectPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj",
+        "projectPath": "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\Practicas01.csproj",
         "packagesPath": "C:\\Users\\APM02-45\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\obj\\",
+        "outputPath": "c:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\C-sharp\\Practicas01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-45\\AppData\\Roaming\\NuGet\\NuGet.Config"
