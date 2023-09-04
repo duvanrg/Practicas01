@@ -1,0 +1,14 @@
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\bin\Debug\net7.0\Practicas01.exe
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\bin\Debug\net7.0\Practicas01.deps.json
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\bin\Debug\net7.0\Practicas01.runtimeconfig.json
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\bin\Debug\net7.0\Practicas01.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\bin\Debug\net7.0\Practicas01.pdb
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.AssemblyInfoInputs.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.AssemblyInfo.cs
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.csproj.CoreCompileInputs.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\refint\Practicas01.dll
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.pdb
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\Practicas01.genruntimeconfig.cache
+C:\Users\APM02-45\Documents\Apolo-duban\Jholver\C-sharp\Practicas01\obj\Debug\net7.0\ref\Practicas01.dll
