@@ -74,18 +74,17 @@
 //     }
 // }
 
-internal class NewBaseType
+/* internal class Program
 {
     private static void Main(string[] args)
     {
-        /* var a = 12.3;
+        var a = 12.3;
         double b = 12.3;
         Console.Clear();
         Console.WriteLine($"El valor de a es = {a} ");
         Console.WriteLine($"El valor de b es = {b} ");
-        */
 
-        /* double d = 3D;
+        double d = 3D;
         d = 4d;
         d = 3.934_001;
         Console.WriteLine($"{d}");
@@ -95,24 +94,37 @@ internal class NewBaseType
         decimal myMoney = 3_000.5m;
         myMoney = 400.75M;
         Console.WriteLine($"{myMoney}"); 
-        */
         
-        /* 
+        
+
         bool check = true;
         Console.WriteLine(check ? "Activo" : "Inactivo");
         Console.WriteLine(false ? "Activo" : "Inactivo");
-        */
 
-        /* 
         decimal value = 123.456m;
         Console.WriteLine(value.ToString("C2"));
-        */
+
 
         
     }
-}
+} */
+/* 
+using System.Collections;
 
-internal class Program : NewBaseType
+internal class Program
 {
 
-}
+    private static void Main(string[] args)
+    {
+        ArrayList myAL = new ArrayList();
+        myAL.Add("The");
+        myAL.Add("quick");
+        myAL.Add("brown");
+        myAL.Add("fox");
+        foreach (Object n in myAL)
+        {
+            Console.WriteLine(n.ToString());
+
+        }
+    }
+} */
